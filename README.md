@@ -1,7 +1,7 @@
 # AI Programming Project
 
 ## Student Information
-- **Name**: John Kamau Mwangi
+- **Name**: Gloria Kihuria
 - **Registration Number**: SCT211-0123/2023
 
 ## Project Overview
